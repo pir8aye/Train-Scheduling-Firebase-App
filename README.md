@@ -1,1 +1,5 @@
-# firebase-train
+# IRVINE EXPRESS TRAIN SCHEDULER
+### CONTROL WHERE AND WHEN THE TRAINS GO
+
+Just input
+1. The name of the 

@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css?family=Jura|Space+Mono|Raleway:300,400,500,600,800,900');
+
+.font-selection {
+font-family: 'Jura', sans-serif;
+font-family: 'Raleway', sans-serif;
+}
+
+body {
+    font-family: "Raleway, Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #37414a;
+}
+
+.container {
+background-color: #37414a;
+font-family: 'Space Mono', monospace;
+font-size: 18px;
+color: #52c364;
+}
+
+.panel-title {
+   font-family: 'Raleway', sans-serif;
+   font-size:34px;
+   font-weight: 900;
+   letter-spacing: 2px;
+   
+}
+
+label {
+    font-family: 'Raleway', sans-serif;
+   font-size:16px;
+   font-weight: 400;
+   letter-spacing: 1px;
+}
+
+.panel-body {
+    padding: 15px;
+    background: #000;
+}
+
+
+.btn-primary {
+    color: #000;
+    background-color: #52c364;
+    border-color: #00a21a;
+    font-size: 22px;
+    font-weight: 900;
+    font-family: 'Jura', sans-serif;
+    margin-top: 15px;
+}
+
+.btn-primary:active:focus, .btn-primary:active:hover, .btn-primary:hover {
+    color: #232323;
+    background-color: #00a21a;
+    border-color: #00a21a;
+    font-size: 22px;
+    font-weight: 900;
+    font-family: 'Jura', sans-serif;
+    margin-top: 15px;
+}
+
+.btn-primary:active {
+    color: #232323;
+    background-color: #00a21a;
+    border-color: #00a21a;
+    font-size: 22px;
+    font-weight: 900;
+    font-family: 'Jura', sans-serif;
+    margin-top: 15px;
+}
+.btn-primary:focus {
+    color: #232323;
+    background-color: #00a21a;
+    border-color: #00a21a;
+    font-size: 22px;
+    font-weight: 900;
+    font-family: 'Jura', sans-serif;
+    margin-top: 15px;
+}
+
+.btn-primary:visited {
+    color: #232323;
+    background-color: #00a21a;
+    border-color: #00a21a;
+    font-size: 22px;
+    font-weight: 900;
+    font-family: 'Jura', sans-serif;
+    margin-top: 15px;
+}
+.panel-primary {
+    border: 3px solid #000;
+}
+
+.panel-primary>.panel-heading {
+   color: #212121;
+    background-color: #52c364;
+    border: 3px solid #52c364;
+}
+
+.panel-heading {
+    padding: 10px 15px;
+    border-bottom: 3px solid transparent;
+   border-top-left-radius: 0px;
+   border-top-right-radius: 0px; 
+}
+
+.table>thead:first-child>tr:first-child>th {
+    border-top: 0;
+    background: #52c364;
+    color: #232323;
+}
+
+.form-control {
+    font-family: 'Jura', sans-serif;
+    display: block;
+    width: 50%;
+    height: 34px;
+    padding: 24px 16px;
+    font-size: 20px;
+    line-height: 1.42857143;
+    letter-spacing: 2px;
+    color: #cacaca;
+    background: #37414a;
+    border: 1px solid #65798c;
+}
+
+.table>tbody>tr>td {
+    padding: 8px;
+    line-height: 1.42857143;
+    vertical-align: top;
+    border-top: 1px solid #525252;
+
+}
+
+.table>thead>tr>th {
+    vertical-align: bottom;
+    border-bottom: 1px solid #525252;
+}
