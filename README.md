@@ -7,6 +7,7 @@ Just input
 3. Time the first train leaves.
 4. Interval between each train.
 
+That's it!
 
 View Demo Here: https://sethmh82.github.io/Train-Scheduling-Firebase-App/
 
